@@ -60,4 +60,4 @@ Runtime: a few minutes on a laptop, single core.
 - `make_figures.py` — regenerates the two paper figures from results
 
 ## License
-MIT.
+GPLv3.
