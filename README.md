@@ -60,4 +60,4 @@ Runtime: a few minutes on a laptop, single core.
 - `make_figures.py` — regenerates the two paper figures from results
 
 ## License
-GPLv3.
+GPLv3. Note: Academic, non-profit, and personal hobbyist use is granted free of charge under these terms. For commercial, closed-source, or enterprise use, a separate commercial license must be purchased.
